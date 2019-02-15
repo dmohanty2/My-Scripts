@@ -3,7 +3,9 @@ from datetime import datetime
 def odd_no_generator(n,m):
   """
   to calculate the timetaken for creating odd numbers within a specific range 
-  using append and insert. Finding the time taken and understanding the logic
+  using append and insert. Finding the time taken(helps in getting the efficient method) 
+  and understanding the logic
+  
   """
   d=n
   c=m
