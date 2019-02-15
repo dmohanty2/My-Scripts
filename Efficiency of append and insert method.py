@@ -9,8 +9,8 @@ def odd_no_generator(n,m):
   """
   d=n
   c=m
-  t1=datetime.now() #using the epoch time to know the present time
   a=[]     #empty list for append method
+  t1=datetime.now() #using the epoch time to know the present time
 
   while n < m:
     a.append(n)
