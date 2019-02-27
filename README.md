@@ -1,2 +1,2 @@
-# MyScripts
-Python scripts for explaining efficiency of various functions
+# Python Scripts
+Some basic Python scripts for general tasks.
